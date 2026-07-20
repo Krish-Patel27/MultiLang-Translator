@@ -49,7 +49,4 @@ List of the technologies used in the project.
 **Home Page Result**
 ![home-page](./screenshots/home-page-result.jpg)
 
-## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/harshalpardeshi/)
-- [Email](mailto:pardeshiharshal90@gmail.com)
